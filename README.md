@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=fakeruncode&theme=dracula)
+![faker's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeruncode&show_icons=true)
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
