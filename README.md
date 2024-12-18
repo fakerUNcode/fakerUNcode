@@ -3,20 +3,24 @@
 
 <table align="center">
   <tr>
+    <!-- 第一列 -->
     <td>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" />
       </a>
     </td>
+    <!-- 第二列 -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact" alt="Top Langs" />
       </a>
     </td>
+    <!-- 第三列 -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true&show_icons=true" alt="faker's GitHub stats" />
+    </td>
   </tr>
 </table>
-
-![faker's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true&show_icons=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fakeruncode&custom_title=Activity%20Graph&hide_border=true&bg_color=FFFFFF&color=000000&title_color=000000&line=00FF00&point=008000&area_color=EEEEEE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
