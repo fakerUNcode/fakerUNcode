@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakerUNcode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakerUNcode)](https://github.com/fakerUNcode/github-readme-stats)
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
