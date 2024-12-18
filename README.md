@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm StoryWriter</h1>
 <h3 align="center">A passionate student from Nanjing,Jiangsu</h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact" alt="Top Langs" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
