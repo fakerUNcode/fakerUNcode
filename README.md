@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **some questions about linear algebra maybe...**
 
-- 📫 How to reach me **storywriter0329@gamil.com**
+- 📫 How to reach me **storywriter0329@gmail.com**
 
 - ⚡ Fun fact **I am not artificial intellegence so that I can't remember all things(bad memory)**
 
