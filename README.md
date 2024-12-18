@@ -7,9 +7,9 @@
   </a>
 </p>
 
-<div style="text-align: center;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
