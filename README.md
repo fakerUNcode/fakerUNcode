@@ -7,9 +7,11 @@
   </a>
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact" alt="Top Langs" />
+  </a>
+</center>
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
