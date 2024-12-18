@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
-- 🌱 I’m currently learning **Spring and Mybatis,also I use elasticsearch and FFmepg as my components**
+- 🌱 I’m currently learning **Spring and Mybatis,also I use elasticsearch and FFmpeg as my components**
 
 - 👯 I’m looking to collaborate on **math problems or code problems**
 
