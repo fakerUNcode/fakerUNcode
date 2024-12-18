@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm StoryWriter</h1>
 <h3 align="center">A passionate student from Nanjing,Jiangsu</h3>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&column=3" alt="fakeruncode" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" /></a> </p>
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
