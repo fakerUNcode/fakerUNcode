@@ -16,9 +16,8 @@
   </tr>
 </table>
 
-![faker's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true)
+![faker's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true&show_icons=true)
 
-![faker's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
 
 
 - 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
