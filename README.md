@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **math!**
 
-- 📝 I regularly write articles on [GeekForGeeks](GeekForGeeks)
+- 📝 I regularly write articles on [GeekForGeeks](www.geeksforgeeks.org)
 
 - 💬 Ask me about **some questions about linear algebra maybe...**
 
