@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I am not artificial intellegence so that I can't remember all things(bad memory)**
 
+- ❤️ Won't show any compelete application's repository till I graduate.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/chaoting wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chaoting wang" height="30" width="40" /></a>
