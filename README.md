@@ -17,7 +17,7 @@
     </td>
     <!-- 第三列 -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true&show_icons=true&theme=default" alt="faker's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fakeruncode&count_private=true&show_icons=true&theme=vue" alt="faker's GitHub stats" />
     </td>
   </tr>
 </table>
