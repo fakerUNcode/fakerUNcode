@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm StoryWriter</h1>
-<h3 align="center">A passionate student from Nanjing,Jiangsu</h3>
+<h3 align="center">A passionate student from Jiangsu</h3>
 
 <table align="center">
   <tr>
