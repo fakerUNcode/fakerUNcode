@@ -24,15 +24,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fakeruncode&custom_title=Activity%20Graph&hide_border=true&bg_color=FFFFFF&color=000000&title_color=000000&line=00FF00&point=008000&area_color=EEEEEE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on **linear algebra,OS,computer organization...maybe it's a hard way to learn all of them excellently**
 
-- 🌱 I’m currently learning **Spring and Mybatis,also I use elasticsearch and FFmpeg as my components**
-
-- 👯 I’m looking to collaborate on **math problems or code problems**
-
-- 🤝 I’m looking for help with **math!**
-
-- 📝 I regularly write articles on [GeekForGeeks](www.geeksforgeeks.org)
 
 - 💬 Ask me about **some questions about linear algebra maybe...**
 
