@@ -28,9 +28,7 @@
 
 - 📫 How to reach me **storywriter0329@gmail.com**
 
-- ⚡ Fun fact **I am not artificial intellegence so that I can't remember all things(bad memory)**
 
-- ❤️ Won't show any compelete application's repository till I graduate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
