@@ -24,7 +24,7 @@
 
 
 
-- 💬 Ask me about **some questions about linear algebra maybe...**
+
 
 - 📫 How to reach me **storywriter0329@gmail.com**
 
