@@ -1,7 +1,6 @@
 
 <table align="center">
   <tr>
-    <!-- 第一列 -->
    
     <!-- 第二列 -->
     <td>
