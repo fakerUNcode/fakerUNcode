@@ -2,11 +2,7 @@
 <table align="center">
   <tr>
     <!-- 第一列 -->
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=fakeruncode&title=Commits,PullRequest,Repositories&row=1&column=3" alt="fakeruncode" />
-      </a>
-    </td>
+   
     <!-- 第二列 -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
