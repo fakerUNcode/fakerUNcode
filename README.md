@@ -1,12 +1,6 @@
 
 <table align="center">
   <tr>
-   <!-- 第一列 -->
-    <td>
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fakeruncode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeruncode&layout=compact" alt="Top Langs" />
-      </a>
-    </td>
     <!-- 第二列 -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
